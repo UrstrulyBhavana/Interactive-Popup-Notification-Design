@@ -20,6 +20,10 @@ A sleek and responsive popup notification system with smooth animations to enhan
 ---
 
 ## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
+
+1. Open the `index.html` file in your browser.
+2. Click the **"Submit"** button to see the popup message.
+3. Interact with the popup:
+   - The popup will display a "Thank You" message.
+   - Click the **"OK"** button to close the popup.
+
