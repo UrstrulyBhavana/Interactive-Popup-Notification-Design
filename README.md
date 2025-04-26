@@ -31,3 +31,29 @@ A sleek and responsive popup notification system with smooth animations to enhan
 ## Demo.gif
 
 ![Image](https://github.com/user-attachments/assets/22ab23a6-2160-455e-8bb5-6548b2fa3356)
+
+---
+
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+```
+
