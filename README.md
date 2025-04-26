@@ -1,5 +1,13 @@
 # Interactive Popup Notification Design
 
+---
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/22ab23a6-2160-455e-8bb5-6548b2fa3356)
+
+---
+
 A sleek and responsive popup notification system with smooth animations to enhance user interaction.
 
 ---
@@ -27,11 +35,6 @@ A sleek and responsive popup notification system with smooth animations to enhan
    - The popup will display a "Thank You" message.
    - Click the **"OK"** button to close the popup.
 
-
-## Demo.gif
-
-![Image](https://github.com/user-attachments/assets/22ab23a6-2160-455e-8bb5-6548b2fa3356)
-
 ---
 
 🙋‍♀️ Author
@@ -55,5 +58,4 @@ For questions or suggestions, feel free to reach out:
 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
 
